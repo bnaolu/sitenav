@@ -19,6 +19,6 @@
   new_window: true
   highlight: false
 - name: Sign Up
-  link: philip.levy@bixal.com
+  link: mailto:philip.levy@bixal.com
   new_window: true
   highlight: true
