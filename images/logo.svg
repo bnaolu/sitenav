@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="603px" height="72px" viewBox="0 0 603 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="611px" height="72px" viewBox="0 0 611 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>logo</title>
     <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g transform="translate(0.118000, -1.334000)" fill="#FFFFFF" fill-rule="nonzero" id="Shape">
             <path d="M35.375,1.959 C15.919,1.959 7.10542736e-15,17.878 7.10542736e-15,37.334 C7.10542736e-15,56.79 15.919,72.709 35.375,72.709 C54.831,72.709 70.75,56.79 70.75,37.334 C70.75,17.878 54.831,1.959 35.375,1.959 Z M38.912,9.281 C51.681,10.873 61.837,21.06 63.426,33.797 L38.912,33.797 L38.912,9.281 Z M7.075,37.334 C7.075,22.973 17.933,11.016 31.838,9.281 L31.838,65.42 C17.934,63.65 7.075,51.697 7.075,37.334 Z M38.912,65.385 L38.912,40.871 L63.426,40.871 C61.837,53.641 51.681,63.796 38.912,65.385 Z"></path>
         </g>
         <text id="site-nav-test-drive" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="72" font-weight="normal" fill="#FFFFFF">
-            <tspan x="79" y="61">site nav test drive</tspan>
+            <tspan x="87" y="61">site nav test drive</tspan>
         </text>
     </g>
 </svg>
